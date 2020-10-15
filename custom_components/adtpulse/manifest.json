@@ -3,7 +3,7 @@
   "name": "ADT Pulse",
   "documentation": "https://github.com/jeffjumper/hass-adtpulse/",
   "requirements": [
-     "git+https://github.com/jeffjumper/pyadtpulse.git@master#pyadtpulse>=0.2.2",
+     "git+https://github.com/jeffjumper/pyadtpulse.git#pyadtpulse>=0.2.3",
      "beautifulsoup4>=4.9.0"
   ],
   "dependencies": [],
