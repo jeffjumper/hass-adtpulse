@@ -1,7 +1,7 @@
 {
   "domain": "adtpulse",
   "name": "ADT Pulse",
-  "documentation": "https://github.com/rsnodgrass/hass-adtpulse/",
+  "documentation": "https://github.com/jeffjumper/hass-adtpulse/",
   "requirements": [
      "pyadtpulse>=0.2.2",
      "beautifulsoup4>=4.9.0"
